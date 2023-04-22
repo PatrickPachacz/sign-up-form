@@ -1,6 +1,9 @@
 # About
-<p>Simple sign-up form using ReactJS. No API/route/credential-verification is included.</p>
+<p>Simple sign-up form using ReactJS. No API/route/credential-verification. </p>
 <p>Within the code we are console-logging the different outcomes</p>
+1. "Successfully signed up"
+2. "Passwords do not match"
+
 
 # Screenshot 
 <img src="screenshot.png" />
